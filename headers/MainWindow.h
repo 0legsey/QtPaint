@@ -3,9 +3,7 @@
 
 #include <QMainWindow>
 #include <QPushButton>
-#include <QHBoxLayout>
 #include <QToolBar>
-#include <QGroupBox>
 #include <QMessageBox>
 #include <QApplication>
 #include "DrawingArea.h"
